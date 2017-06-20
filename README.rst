@@ -1,10 +1,12 @@
-*******************************************************************************
-CFM Software Carpentry Tracks - 2017-05-04  - Introduction to Scientific Python
-*******************************************************************************
+***************************************************************************
+Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson
+***************************************************************************
 
-:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 4th May, 9:30-13:30 2016
+:Date & place: Software Carpentry Workshop - San Sebastian 2017, 28-30th June
+               2017 (`workshop webpage`_)
+
 :Track: Introduction to Scientific Python
-:Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
+:Autor: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
 
 
 Abstract
@@ -47,6 +49,7 @@ This work is licensed under a `Creative Commons Attribution 4.0 International
 License`_.
 
 
+.. _`workshop webpage`: http://iamc.eu/2017-06-28-cfmehu
 .. _`Creative Commons Attribution 4.0 International License`: http://creativecommons.org/licenses/by/4.0/
 .. _`SciPy`: http://www.scipy.org
 .. _`Anaconda`: https://www.continuum.io/downloads
@@ -57,5 +60,4 @@ License`_.
 .. _`NumPy`: http://www.numpy.org/
 .. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython
 .. _`installation instructions`: https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python
-
 

@@ -263,12 +263,12 @@ endobj
 % 'R19': class PDFInfo 
 19 0 obj
 << /Author ()
- /CreationDate (D:20170620121219-01'00')
+ /CreationDate (D:20170620121349-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
- /Title (Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson) >>
+ /Title (Software Carpentry Workshop - San Sebastian 2017 - Scientific Python Lesson) >>
 endobj
 % 'R20': class PDFOutlines 
 20 0 obj
@@ -315,7 +315,7 @@ stream
 q
 1 0 0 1 62.69291 717.0236 cm
 q
-BT 1 0 0 1 0 28 Tm 13.78488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Software Carpentry Workshop - San Sebastian) Tj T* 71.11 0 Td (2016 - Scientific Python Lesson) Tj T* -84.89488 0 Td ET
+BT 1 0 0 1 0 28 Tm 13.78488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Software Carpentry Workshop - San Sebastian) Tj T* 71.11 0 Td (2017 - Scientific Python Lesson) Tj T* -84.89488 0 Td ET
 Q
 Q
 q
@@ -594,7 +594,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(Ap\030NZ\263p\011\(\375Fk,v\330\036) (Ap\030NZ\263p\011\(\375Fk,v\330\036)] 
+ [(\(+d^\011\223\)\335I*/ \372ar%) (\(+d^\011\223\)\335I*/ \372ar%)] 
 
  /Info 19 0 R
  /Root 18 0 R

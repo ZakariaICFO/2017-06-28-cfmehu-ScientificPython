@@ -1,5 +1,5 @@
 ***************************************************************************
-Software Carpentry Workshop - San Sebastian 2016 - Scientific Python Lesson
+Software Carpentry Workshop - San Sebastian 2017 - Scientific Python Lesson
 ***************************************************************************
 
 :Date & place: Software Carpentry Workshop - San Sebastian 2017, 28-30th June
